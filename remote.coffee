@@ -5,7 +5,7 @@ module.exports = (env) ->
   Messenger = require('./remote-connection')(env)
   commons = require('pimatic-plugin-commons')(env)
   deviceConfigTemplates = {
-    "relay": {
+    "switch": {
       id: "remote-switch-"
       name: "Remote Switch "
       class: "PimaticRemoteSwitch"
