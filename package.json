@@ -41,7 +41,7 @@
   ],
   "configSchema": "remote-config-schema.coffee",
   "dependencies": {
-    "pimatic-plugin-commons": "^0.8.8",
+    "pimatic-plugin-commons": "^0.9.4",
     "socket.io-client": "^1.4.5"
   },
   "optionalDependencies": {},
