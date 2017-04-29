@@ -1,5 +1,7 @@
 # pimatic-remote
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mwittig/pimatic-remote.svg)](https://greenkeeper.io/)
+
 Pimatic Plugin to control devices of a remote Pimatic Server. To date, this is just a proof concept which implements
 a remote switch.
 
